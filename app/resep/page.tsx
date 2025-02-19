@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Resep from './Resep'
 
 export const metadata: Metadata = {
-  title: "Awas Imsak! - Resep masak untuk keluarga.",
-  description: "Awas Imsak! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
+  title: "Yukita Puasa! - Resep masak untuk keluarga.",
+  description: "Yukita Puasa! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
 };
 
 const ResepPage = () => {

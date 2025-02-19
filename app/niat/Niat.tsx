@@ -26,9 +26,9 @@ const Niat = () => {
         drop-shadow-xl
       "
           >
-            Awas Lupa Niat
+            Awas Lupa Niat !!!
           </p>
-          <p>Awas kawan jangan sampai lupa!</p>
+          <p className="justify-center text-center mb-2 text-xl max-[414px]:text-[15px]">Niat lah dengan sepenuh hati, agar puasa tidak setengah hari🔥🔥🔥</p>
         </div>
         <div className="flex flex-col space-y-5 mb-5 w-[50%] max-[414px]:w-[75%] max-[640px]:w-[75%]">
           <div className="bg-[#0d1811] border border-[#3e664e] p-5 rounded-2xl">

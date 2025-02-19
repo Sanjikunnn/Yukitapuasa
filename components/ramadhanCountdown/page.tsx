@@ -112,7 +112,7 @@ const RamadhanCountdown = () => {
           &quot;What makes your sorry different from all your other sorrys before?&quot;
         </p>
         <p className="mt-4 text-sm text-gray-400">
-          Awas Imsak! © {new Date().getFullYear()}{" "}
+        Yukita Puasa! © {new Date().getFullYear()}{" "}
         </p>
       </div>
     </div>

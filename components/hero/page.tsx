@@ -334,7 +334,7 @@ const Hero = () => {
             data-aos-delay="1000"
             data-aos-duration="1000"
           >
-            Awas Imsak!
+            Marhaban Ya Ramadhan
           </p>
           <div
             data-aos="fade-up"
@@ -345,9 +345,17 @@ const Hero = () => {
               effect="downTop"
               duration={500}
               data={[
-                "Awas Imsak! hadir untuk teman-teman yang suka sahur jam 12 siang",
-                "Masa puasa 30 hari doang ga bisa sih bang?",
-                "Awas Imsak! Puasa Tenang, Hati Gembirang.",
+                "Yukita Puasa! Hadir buat yang ikut bukber tapi puasanya kaga! 🤣",
+                "Siang-siang ngopi di warkop, tapi pas bukber ikut doa bareng! 😭",
+                "Puasa kagak, tapi kalo ada yang nanya: ‘Alhamdulillah, full kok!’ 🤡",
+                "Yukita Puasa! Hadir buat orang yang ngajak temennya buat bukber siang-siang! 🤡",
+                "Bukber nyari yang prasmanan, biar bisa ‘balas dendam’ padahal udah batal dari siang! 🤤",
+                "Dateng bukber cuma buat update IG story ‘Alhamdulillah buka bersama’ 😆",
+                "Awalnya ngajak jumatan, eh ko malah belok cari hajatan! 😵‍💫",
+                "‘Bro, lo puasa?’ - ‘Iya dong, cuman nggak sahur aja... sama gak puasa.’ 🤣",
+                "Ikut bukber tapi puasanya kagak, ya Allah semoga rejekinya tetep lancar ya bang! 😂",
+                "Ngajak bukber di all you can eat, padahal batalnya dari jam 10 pagi! 🤣",
+                "Sore-sore ngabuburit ikut nungguin azan, padahal dari siang udah ngegas nasi padang! 😆",
               ]}
               className="opensans text-[15px] mt-5"
             />
@@ -423,9 +431,9 @@ const Hero = () => {
                 className="underline"
               >
                 {" "}
-                Muhammad Dimas,{" "}
+                Faizal Muhamad Iqbal{" "}
               </Link>
-              under RIOT REVENGER exclusive agreements.
+              
             </p>
           </motion.div>
         </div>

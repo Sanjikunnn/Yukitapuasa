@@ -5,16 +5,16 @@ import StarryBackground from "@/components/star/page";
 
 
 export const metadata: Metadata = {
-  title: "Awas Imsak! - Jadwal Sholat & Imsak",
+  title: "Yukita Puasa! - Jadwal Sholat & Imsak",
   icons: {
     icon: '/brand.ico'
   },
-  description: "Awas Imsak! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
-  applicationName: 'Awas Imsak!',
+  description: "Awas Puasa! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
+  applicationName: 'Awas Puasa!',
   referrer: 'origin-when-cross-origin',
   keywords: ['puasa', 'imsak', 'sholat', 'ramadhan', 'jadwal imsak', 'jadwal sholat', 'quran', 'baca quran', 'puasa ramadhan', 'bulan ramadhan'],
-  authors: [{ name: 'Klaw' }, { name: 'Muhammad Dimas', url: 'https://klaw.my.id' }],
-  creator: 'Klaw',
+  authors: [{ name: 'Fzmhq' }, { name: 'Faizal Muhamad Iqbal', url: 'https://klaw.my.id' }],
+  creator: 'Fzmhq',
   publisher: 'RIOT REVENGER',
   formatDetection: {
     email: false,
@@ -22,10 +22,10 @@ export const metadata: Metadata = {
     telephone: false,
   },
   openGraph: {
-    title: 'Awas Imsak! - Jadwal Sholat & Imsak',
-    description: 'Awas Imsak! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses',
+    title: 'Yukita Puasa! - Jadwal Sholat & Imsak',
+    description: 'Yukita Puasa! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses',
     url: 'https://imsak.my.id',
-    siteName: 'Awas Imsak!',
+    siteName: 'Yukita Puasa!',
     type: 'website',
   },
 };

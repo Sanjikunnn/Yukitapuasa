@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Tadarus from './Tadarus'
 
 export const metadata: Metadata = {
-    title: "Awas Imsak! - Baca Quran Online",
-    description: "Awas Imsak! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
+    title: "Yukita Puasa! - Baca Quran Online",
+    description: "Yukita Puasa! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
   };
 
 const TadarusPage = () => {
