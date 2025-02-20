@@ -6,7 +6,7 @@ export async function GET(request: Request) {
     const latitude = searchParams.get('latitude');
     const longitude = searchParams.get('longitude');
 
-    const API_KEY = process.env.OPENCAGE_API_KEY;
+    const API_KEY = process.env.NEXT_PUBLIC_OPENCAGE_API_KEY; 
     
     const response = await fetch(
       `https://api.opencagedata.com/geocode/v1/json?q=${latitude}+${longitude}&key=${API_KEY}&language=id`
