@@ -98,10 +98,10 @@ const Resep: React.FC = () => {
         drop-shadow-xl
       "
         >
-          Awas Lupa Masak
+          Yuk Masak 😋
         </p>
         <p className="max-[640px]:text-[12px] justify-center text-center">
-          Masa udah puasa malah ga buka gara-gara ga masak.
+          Masa udah puasa malah ga buka gara-gara ga masak 🤡
         </p>
         <div>
           <div className="relative">
@@ -122,19 +122,16 @@ const Resep: React.FC = () => {
           <div className="flex flex-col space-y-5 mb-5 w-[50%] max-[414px]:w-[75%] max-[640px]:w-[75%]">
             <div className="bg-[#0d1811] border border-[#3e664e] p-5 rounded-2xl">
               <p className="justify-center text-center mb-5 text-xl max-[414px]:text-[15px]">
-                Niat Puasa Ramadhan untuk Sehari:
+                Doa Buka Puasa Ramadhan :
               </p>
               <p className="text-2xl justify-end text-end mb-2 max-[414px]:text-[20px]">
-                نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هَذِهِ
-                السَّنَةِ لِلّٰهِ تَعَالَى
+                اللّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ
               </p>
               <p className="font-bold mb-2 max-[414px]:text-[12px]">
-                Nawaitu shauma ghadin &apos;an ada&apos;i fardhi syahri Ramadhana
-                hadzihis sanati lillahi ta&apos;ala.
+                Allahumma laka shumtu wa bika aamantu wa 'alayka tawakkaltu wa 'ala rizqika aftartu.
               </p>
               <p className='max-[414px]:text-[12px]'>
-                Artinya: “Aku niat berpuasa esok hari untuk menunaikan kewajiban
-                puasa bulan Ramadhan tahun ini, karena Allah Ta&apos;ala.”
+                Artinya: “Ya Allah, karena-Mu aku berpuasa, kepada-Mu aku beriman, kepada-Mu aku bertawakal, dan dengan rezeki-Mu aku berbuka.”
               </p>
             </div>
           </div>
