@@ -124,14 +124,13 @@ const Resep: React.FC = () => {
                 Doa Buka Puasa Ramadhan :
               </p>
               <p className="text-2xl justify-end text-end mb-2 max-[414px]:text-[20px]">
-                اللّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ
+              اللَّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ
               </p>
               <p className="font-bold mb-2 max-[414px]:text-[12px]">
-                Allahumma laka shumtu wa bika aamantu wa &apos;alayka tawakkaltu wa &apos;ala rizqika aftartu.
+                Allahumma laka shumtu wa bika aamantu wa&apos;alaa rizqika afthortu birahmatika yaa arhamar-roohimiina.
               </p>
               <p className='max-[414px]:text-[12px]'>
-                Artinya: “Ya Allah, karena-Mu aku berpuasa, kepada-Mu aku beriman, kepada-Mu aku bertawakal, dan dengan rezeki-Mu aku berbuka.”
-              </p>
+              "Ya Allah, kepada-Mu aku berpuasa, dengan-Mu aku beriman, dan dengan rezeki-Mu aku berbuka, dengan rahmat-Mu, wahai Dzat yang Maha Penyayang."</p>
             </div>
 
           {/* Menampilkan pesan jika hasil pencarian tidak ditemukan */}
