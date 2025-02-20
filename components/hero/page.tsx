@@ -403,7 +403,7 @@ const Hero = () => {
             </Link>
             <Link href="/resep">
               <motion.button
-                className="bg-[#0d1811] border border-[#3e664e] hover:border-[#2b4733] transition-colors text-white rounded-full px-5 w-auto h-10 active-box active-shadow"
+                className="bg-[#0d1811] border border-[#3e664e] hover:border-[#2b4733] transition-colors text-white rounded-full px-3 w-auto h-10 active-box active-shadow"
                 initial={{ opacity: 0, x: -100 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 2.5, duration: 1 }}
