@@ -374,7 +374,7 @@ const Hero = () => {
           <div
             className="mt-5 
         space-x-2 
-        max-[640px]:grid-cols-2 
+        max-[640px]:grid-cols-3 
         max-[640px]:grid 
         max-[640px]:space-x-0
         max-[640px]:gap-4
@@ -393,7 +393,7 @@ const Hero = () => {
             </Link>
             <Link href="/tadarus">
               <motion.button
-                className="bg-[#0d1811] border border-[#3e664e] hover:border-[#2b4733] transition-colors text-white rounded-full px-5 w-auto h-10 active-box active-shadow"
+                className="bg-[#0d1811] border border-[#3e664e] hover:border-[#2b4733] transition-colors text-white rounded-full px-3 w-auto h-10 active-box active-shadow"
                 initial={{ opacity: 0, x: -100 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 2, duration: 1 }}
