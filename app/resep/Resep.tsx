@@ -119,6 +119,26 @@ const Resep: React.FC = () => {
             </div>
           </div>
 
+          <div className="flex flex-col space-y-5 mb-5 w-[50%] max-[414px]:w-[75%] max-[640px]:w-[75%]">
+            <div className="bg-[#0d1811] border border-[#3e664e] p-5 rounded-2xl">
+              <p className="justify-center text-center mb-5 text-xl max-[414px]:text-[15px]">
+                Niat Puasa Ramadhan untuk Sehari:
+              </p>
+              <p className="text-2xl justify-end text-end mb-2 max-[414px]:text-[20px]">
+                نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هَذِهِ
+                السَّنَةِ لِلّٰهِ تَعَالَى
+              </p>
+              <p className="font-bold mb-2 max-[414px]:text-[12px]">
+                Nawaitu shauma ghadin &apos;an ada&apos;i fardhi syahri Ramadhana
+                hadzihis sanati lillahi ta&apos;ala.
+              </p>
+              <p className='max-[414px]:text-[12px]'>
+                Artinya: “Aku niat berpuasa esok hari untuk menunaikan kewajiban
+                puasa bulan Ramadhan tahun ini, karena Allah Ta&apos;ala.”
+              </p>
+            </div>
+          </div>
+          
           {/* Menampilkan pesan jika hasil pencarian tidak ditemukan */}
           {filteredResep.length === 0 && (
             <div className="bg-[#0d1811] border border-[#3e664e] p-4 rounded-2xl w-[810px] max-[640px]:w-[300px] flex flex-col justify-center items-center text-center">
