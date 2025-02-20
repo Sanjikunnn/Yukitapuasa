@@ -130,7 +130,7 @@ const Resep: React.FC = () => {
                 Allahumma laka shumtu wa bika aamantu wa&apos;alaa rizqika afthortu birahmatika yaa arhamar-roohimiina.
               </p>
               <p className='max-[414px]:text-[12px]'>
-              "Ya Allah, kepada-Mu aku berpuasa, dengan-Mu aku beriman, dan dengan rezeki-Mu aku berbuka, dengan rahmat-Mu, wahai Dzat yang Maha Penyayang."</p>
+              Artinya: &quot;Ya Allah, kepada-Mu aku berpuasa, dengan-Mu aku beriman, dan dengan rezeki-Mu aku berbuka, dengan rahmat-Mu, wahai Dzat yang Maha Penyayang.&quot;</p>
             </div>
 
           {/* Menampilkan pesan jika hasil pencarian tidak ditemukan */}
