@@ -98,7 +98,7 @@ const Resep: React.FC = () => {
         drop-shadow-xl
       "
         >
-          Yuk Masak 😋
+          Yuk Masak
         </p>
         <p className="max-[640px]:text-[12px] justify-center text-center">
           Masa udah puasa malah ga buka gara-gara ga masak 🤡
@@ -118,7 +118,6 @@ const Resep: React.FC = () => {
               </div>
             </div>
           </div>
-
             <div className="bg-[#0d1811] border border-[#3e664e] p-5 rounded-2xl">
               <p className="justify-center text-center mb-5 text-xl max-[414px]:text-[15px]">
                 Doa Buka Puasa Ramadhan :
@@ -133,7 +132,7 @@ const Resep: React.FC = () => {
                 Artinya: “Ya Allah, karena-Mu aku berpuasa, kepada-Mu aku beriman, kepada-Mu aku bertawakal, dan dengan rezeki-Mu aku berbuka.”
               </p>
             </div>
-          
+
           {/* Menampilkan pesan jika hasil pencarian tidak ditemukan */}
           {filteredResep.length === 0 && (
             <div className="bg-[#0d1811] border border-[#3e664e] p-4 rounded-2xl w-[810px] max-[640px]:w-[300px] flex flex-col justify-center items-center text-center">

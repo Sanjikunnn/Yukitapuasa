@@ -26,7 +26,7 @@ const Niat = () => {
         drop-shadow-xl
       "
           >
-            Yuk Niat 
+            Yuk Niat !!!
           </p>
           <p className="justify-center text-center mb-2 text-xl max-[414px]:text-[15px]">Niat lah dengan sepenuh hati, agar puasa tidak setengah hari🔥🔥🔥</p>
         </div>
@@ -70,12 +70,12 @@ const Niat = () => {
         <div className="flex justify-between w-[50%] max-[414px]:w-[75%] max-[640px]:w-[75%]">
           <Link href="/tadarus">
             <div className="bg-[#0d1811] border border-[#3e664e] py-3 px-4 hover:border-[#2b4733] transition-colors active-shadow rounded-full max-[640px]:text-[13px] max-[414px]:text-[13px] max-[360px]:text-[10px]">
-              Awas Lupa Tadarus
+              Yuk Tadarus
             </div>
           </Link>
           <Link href="/resep">
             <div className="bg-[#0d1811] border border-[#3e664e] py-3 px-4 hover:border-[#2b4733] transition-colors active-shadow rounded-full max-[640px]:text-[13px] max-[414px]:text-[13px] max-[360px]:text-[10px]">
-              Awas Lupa Buka
+              Yuk Buka
             </div>
           </Link>
         </div>

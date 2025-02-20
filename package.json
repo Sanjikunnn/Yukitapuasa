@@ -16,6 +16,7 @@
     "@reduxjs/toolkit": "^2.1.0",
     "@tsparticles/engine": "^3.7.1",
     "@tsparticles/react": "^3.0.0",
+    "@vercel/speed-insights": "^1.2.0",
     "aos": "^2.3.4",
     "bmkg-wrapper": "^2.0.0",
     "framer-motion": "^11.0.3",
