@@ -425,7 +425,7 @@ const Hero = () => {
             <p className="text-[12px] italic">
               © {new Date().getFullYear()}{" "}
               <Link
-                href="https://github.com/klawcodes"
+                href="https://github.com/sanjikunn"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="underline"
