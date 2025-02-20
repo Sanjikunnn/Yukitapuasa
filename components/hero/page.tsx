@@ -388,7 +388,7 @@ const Hero = () => {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 1.5, duration: 1 }}
               >
-                Awas Lupa Niat
+                Yuk Niat
               </motion.button>
             </Link>
             <Link href="/tadarus">
@@ -398,7 +398,7 @@ const Hero = () => {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 2, duration: 1 }}
               >
-                Awas Lupa Tadarus
+                Yuk Tadarus
               </motion.button>
             </Link>
             <Link href="/resep">
@@ -408,7 +408,7 @@ const Hero = () => {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 2.5, duration: 1 }}
               >
-                Awas Lupa Masak
+                Yuk Masak
               </motion.button>
             </Link>
           </div>
