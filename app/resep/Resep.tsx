@@ -119,7 +119,7 @@ const Resep: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex flex-col space-y-5 mb-5 w-[50%] max-[414px]:w-[75%] max-[640px]:w-[75%]">
+          <div className="flex flex-col space-y-5 mb-5 w-[50%] max-[414px]:w-[75%] max-[640px]:w-[75%] new-doa-buka">
             <div className="bg-[#0d1811] border border-[#3e664e] p-5 rounded-2xl">
               <p className="justify-center text-center mb-5 text-xl max-[414px]:text-[15px]">
                 Doa Buka Puasa Ramadhan :
