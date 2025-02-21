@@ -195,7 +195,7 @@ const Hero = () => {
   
           if (matchedLocation) {
             setSelectedLocation(matchedLocation);
-            toast.success(`Lokasi terdeteksi: ${matchedLocation.label} (${detectedLocation})`, {
+            toast.success(`Lokasi terdeteksi: ${matchedLocation.label}`, {
               duration: 4000,
             });
           } else {
