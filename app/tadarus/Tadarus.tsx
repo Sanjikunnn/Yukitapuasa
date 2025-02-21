@@ -34,7 +34,7 @@ const Tadarus = () => {
         max-[360px]:leading-[2.5rem]
       "
           >
-            Awas Lupa Tadarus
+            Yuk Tadarus
           </p>
           <p className="text-[15px] max-[640px]:text-[15px] w-[100%] max-[640px]:w-[80%] text-center justify-center">
             Jangan lupa tadarus di sini! Baca quran online, buat gadget anda lebih berfaedah!
